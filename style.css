@@ -1,10 +1,10 @@
+
 @font-face {
-    font-family: 'waffle_storyregular';
-    src: url('https://v1.gdapis.com/api/groovemembe...) format('woff2'),
-         url('https://v1.gdapis.com/api/groovemembe...) format('woff');
+    font-family: 'little_boyregular';
+    src: url('https://v1.gdapis.com/api/groovemember/download/hhjzode5e7263bd998eefd18bcc63c1fae98c') format('woff2'),
+         url('https://v1.gdapis.com/api/groovemember/download/lmrzc0db55227ae2f15df699ea5e84fdb1dd7') format('woff');
     font-weight: normal;
     font-style: normal;
 
 }
-
-h1{font-family: 'waffle_storyregular'!important;}
+h1{font-family: 'little_boyregular';!important;}
