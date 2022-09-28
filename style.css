@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'waffle_storyregular';
+    src: url('https://v1.gdapis.com/api/groovemembe...) format('woff2'),
+         url('https://v1.gdapis.com/api/groovemembe...) format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+h1{font-family: 'waffle_storyregular'!important;}
